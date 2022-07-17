@@ -3,4 +3,13 @@
   <groupId>org.ecommerce</groupId>
   <artifactId>AmazonWebApp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <dependencies>
+    <dependency>
+        <groupId>io.qameta.allure</groupId>
+        <artifactId>allure-testng</artifactId>
+        <version>2.18.0</version>
+        <scope>test</scope>
+    </dependency>
+</dependencies>
 </project>
