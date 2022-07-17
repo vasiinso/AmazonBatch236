@@ -7,5 +7,10 @@ public class MainTest {
 		//added by vasanth
 		
 	}
+	
+	public void sub() {
+		
+		//added by vasanth
+	}
 
 }
