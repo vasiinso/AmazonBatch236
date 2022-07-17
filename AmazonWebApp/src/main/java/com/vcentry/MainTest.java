@@ -7,5 +7,10 @@ public class MainTest {
 		//added by vasanth
 		
 	}
+	
+	public void add() {
+		
+		//Added by rohini
+	}
 
 }
